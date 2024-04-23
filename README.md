@@ -8,6 +8,11 @@
 
 The purpose of this project is to consolidate downloaded Divvy data into a single dataframe and then conduct simple analysis to help answer the key question: “In what ways do members and casual riders use Divvy bikes differently?", we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+![image](https://github.com/Kanokjann/Bikedata/assets/158488615/a1c67b3f-ff91-435e-a683-c6c520a24a6f)
+
+![image](https://github.com/Kanokjann/Bikedata/assets/158488615/f53c4e11-0a9b-4d39-b647-ea6d5e8ba076)
+
+
 ### Data Sources
 
 This analysis is based on the Divvy case study "'Sophisticated, Clear, and Polished’: Divvy and Data Visualization" written by Kevin Hartman (found here: https://artscience.blog/home/divvy-dataviz-case-study)
