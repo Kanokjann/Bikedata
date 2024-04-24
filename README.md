@@ -47,8 +47,9 @@ all_trips$ride_length <- difftime(all_trips$ended_at, all_trips$started_at, unit
 
 The analysis results are summarized as follows:
 1. The number of casual and member are 725,635 and 2,502,456 respectively.
-2. The casual and member both ride on weekday (Monday, Tuesday, Wednesday, Thursday and Friday) more than weekend.
-3. The average ride duration for casual is above 50 mins throughout the whole week while for member is below 20 mins.
+2. Member ride on weekday (Monday, Tuesday, Wednesday, Thursday and Friday) more than weekend.
+3. Casual ride on weekend more than weekday.
+4. The average ride duration for casual is above 50 mins throughout the whole week while for member is below 20 mins.
 
 ### Recommendations
 
@@ -56,6 +57,7 @@ Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions during weekday to maximize revenue and gain more member rider.
 - Focus on expanding and promothing campaign for a short ride type (less than 20 mins).
 - Implement a new segmentation especially for long duration ride (above 50 mins) to attract casual to become a membership.
+- Create new campaign for weekday and weekend ride.
 
 ### Limitations
 This study is using the data from 2019Q2 - 2020Q1.
