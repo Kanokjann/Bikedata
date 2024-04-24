@@ -28,10 +28,10 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Exploratory Data Analysis
 - In what ways do members and casual riders use Divvy bikes differently?
-- How many members vs casual?
+- How many member vs casual?
 - What are the peak usage periods?
-- What is the over usage trend weekday-wise?
-- How long customer normally use the bike?
+- What is the overall usage trend day-wise?
+- How long customer normally ride the bike?
 
 ### Data Analysis
 Interesting code worked with
